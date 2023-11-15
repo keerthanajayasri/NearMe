@@ -205,12 +205,17 @@ The Union Ministry of Human Resources Development conferred University status on
 ```
 
 ## OUTPUT
-![Alt text](<Screenshot (9).png>)
-![Alt text](<Screenshot (10).png>)
-![Alt text](<Screenshot (11).png>)
-![Alt text](<Screenshot (12).png>)
-![Alt text](<Screenshot (13).png>)
-![Alt text](<Screenshot (14).png>)
+![image](https://github.com/keerthanajayasri/NearMe/assets/121163440/a0af0006-88ac-4aa0-8a31-18251480d74a)
+
+![image](https://github.com/keerthanajayasri/NearMe/assets/121163440/1e6c0c57-e5fa-4526-acf4-804be33d2d44)
+
+![image](https://github.com/keerthanajayasri/NearMe/assets/121163440/7af96e73-75ca-4cac-b20e-b583df99b282)
+
+![image](https://github.com/keerthanajayasri/NearMe/assets/121163440/344682b3-50c1-44db-9065-0c981dc6f039)
+
+![image](https://github.com/keerthanajayasri/NearMe/assets/121163440/afcd1cec-4237-45d7-aa94-23d75d28e63b)
+
+![image](https://github.com/keerthanajayasri/NearMe/assets/121163440/e84f7db1-9b71-4488-85d0-bb15e767a30c)
 
 ## HTML VALIDATOR
 
